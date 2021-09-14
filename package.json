@@ -1,0 +1,16 @@
+{
+    "name": "insomnia-plugin-filemaker",
+    "version": "1.0.1",
+    "author": "Soliant Consulting",
+    "description": "Makes FileMaker script responses more readable",
+    "license": "MIT",
+    "repository": "https://github.com/soliantconsulting/insomnia-plugin-filemaker",
+    "bugs": {
+        "url": "https://github.com/soliantconsulting/insomnia-plugin-filemaker/issues"
+    },
+    "main": "index.js",
+    "insomnia": {
+        "name": "inception",
+        "description": "Makes FileMaker script responses more readable"
+    }
+}
